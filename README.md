@@ -17,4 +17,4 @@ This repository highlights topics that I learned from the [How to Write and Publ
 
 ## Specialization Certificate
 
-- [Certificate of Completion](https://www.coursera.org/account/accomplishments/certificate/VWZK76723WLE)
+- [Certificate of Completion]([https://www.coursera.org/account/accomplishments/certificate/VWZK76723WLE](https://coursera.org/share/4df1f49de2ff6526b17b55e478116d5c))
